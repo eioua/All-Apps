@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## All Apps
 
-You can use the [editor on GitHub](https://github.com/eioua/All-Apps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[98js](https://98.js.org/)
 
-```markdown
-Syntax highlighted code block
+[windows 93](http://www.windows93.net/)
 
-# Header 1
-## Header 2
-### Header 3
+[macOS](https://leonier.github.io/mvmac2/mvmac2.html)
 
-- Bulleted
-- List
+[Windows XP](https://pranx.com/windows-xp-simulator/)                                                
+            [https://pranx.com/](https://pranx.com/windows-xp-simulator/)
 
-1. Numbered
-2. List
+[黑客PC模拟](https://pranx.com/hacker/)
 
-**Bold** and _Italic_ and `Code` text
+[windows7](https://win7simu.visnalize.com)
 
-[Link](url) and ![Image](src)
-```
+[winxpnew!](https://winxp.vercel.app/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[macOSnew!!](https://macos-web.app/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eioua/All-Apps/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[editor on GitHub](https://github.com/eioua/All-Apps/edit/gh-pages/index.md) 
